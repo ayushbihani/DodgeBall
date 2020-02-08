@@ -20,6 +20,6 @@ default:
     vis_encode_type: simple
     reward_signals:
         extrinsic:
-            strength: 0.0
-            gamma: 0.99
+            strength: 1.0
+            gamma: 0.4
 
